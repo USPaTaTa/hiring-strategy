@@ -12,4 +12,5 @@ factorielles et coefficient binomial programmées en question 1).
 #### Comment l'utiliser ?
 
 Le programme a été développé sur la version `3.11.9` de Python, aucune garantie que cela fonctionne sur une version antérieure.
-Exécuter le programme python et laissz-vous guider.
+
+Exécuter le programme python `main.py` et laissez-vous guider.
